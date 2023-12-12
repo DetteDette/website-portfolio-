@@ -1,0 +1,21 @@
+  * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  -outline: 0;
+  font-family: Verdana, arial;
+}
+html, body{
+  margin: 0px;
+  font-size: 14px;
+  font-weight: 400;
+  background: #2F303A;
+  color: violet;
+  height: 50px;
+}
+table{
+  background-color: #2F303A;
+}
+p{
+  font-family: verdana;
+}
